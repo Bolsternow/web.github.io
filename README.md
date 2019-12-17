@@ -1,2 +1,2 @@
 
-web.github.io
+https://web.github.io
